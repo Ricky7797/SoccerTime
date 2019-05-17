@@ -1,3 +1,3 @@
 # SoccerTime
 
-I heard Messi used this once.
+Messi used this once. He said "Es bueno, pero que es soccer?".
