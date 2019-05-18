@@ -1,10 +1,8 @@
-# SoccerTime
+# Soccer Time
 
 Messi used this once. He said "Es bueno, pero que es soccer?". 
 
-https://www.youtube.com/watch?v=c1KNxuLnAYE
-
-Soccer Time
+https://www.youtube.com/watch?v=c1KNxuLnAYE  
  
 Problem:  
 ​The problem my project wanted to solve was allowing a person to practice soccer alone more effectively.  
